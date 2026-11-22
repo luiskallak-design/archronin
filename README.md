@@ -17,10 +17,6 @@ Fluxbox (X11), dwl (Wayland) e 5 perfis TUI.
 ## Download & Verificação
 * **Download da ISO (Internet Archive):** [Baixar ArchRonin 2026.11.21 (x86_64)](https://archive.org/details/archronin-2026.11.15-x86_64)
 * **Download via Torrent:** [archronin-2026.11.21-x86_64_archive.torrent](https://archive.org)
-* **SHA256:**
-  ```text
-  6faf86a2a42cf0968e98832d83e8103f0e3a24dc183d0f69277fc2e9edd3ea9b  archronin-2026.11.21-x86_64.iso
-  ```
 
 * **SHA256:**
   ```text
